@@ -385,3 +385,5 @@ issue](https://github.com/tensorflow/tensorboard/issues).
 
 General usage questions should go to [Stack
 Overflow](http://stackoverflow.com/questions/tagged/tensorflow).
+
+[![](http://codescene.io/projects/2540/status.svg) Get more details at **codescene.io**.](http://codescene.io/projects/2540/jobs/latest-successful/results)
